@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Jayesh Sharma</h1>
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Q3Yno4cTF4bjFlNTJuaTc2emxyZDRlc3I4MnNmcjV6Mmw1OTBqOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zwDNti5vWFujS/200.webp" width="450" alt="Coding GIF"/>
+</p>
 
 <h3 align="center">Full Stack Developer • AI Enthusiast • Competitive Programmer</h3>
 
 <p align="center">
 Building scalable web applications, AI-powered products, and solving real-world problems.
-</p>
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Q3Yno4cTF4bjFlNTJuaTc2emxyZDRlc3I4MnNmcjV6Mmw1OTBqOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zwDNti5vWFujS/200.webp" width="450" alt="Coding GIF"/>
 </p>
 
 ---
