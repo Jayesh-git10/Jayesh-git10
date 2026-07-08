@@ -1,25 +1,10 @@
-<table>
-  <tr>
-    <td width="60%">
-      <h1>Hi 👋, I'm Jayesh Sharma</h1>
+<h1 align="center">Hi 👋, I'm Jayesh Sharma</h1>
 
-      <h3>Full Stack Developer • AI Enthusiast • Competitive Programmer</h3>
+<h3 align="center">Full Stack Developer • AI Enthusiast • Competitive Programmer</h3>
 
-      <p>
-        Building scalable web applications, AI-powered products,
-        and solving real-world problems.
-      </p>
-
-      <p>
-        <img src="https://komarev.com/ghpvc/?username=Jayesh-git10&label=Profile%20Views&color=0e75b6&style=flat" />
-      </p>
-    </td>
-
-    <td width="40%" align="right">
-      <img src="[YOUR_GIF_URL](https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODM1MTIxNjMsIm5iZiI6MTc4MzUxMTg2MywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA3MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNzA4VDExNTc0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNkNTVhYjZhOGRkODJlMzBkMmNlNmM5NTBlMTg5NTZjZWFmMDY2ZGY5ZDc4Nzk1MmEwZjYzZDZkYzIzZWVkNmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.J9NPEvjqGezwpWFNyCV6J_Fm1LYUPnbvDm7MBMLLo_M)" width="320" alt="Coding GIF"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+Building scalable web applications, AI-powered products, and solving real-world problems.
+</p>
 
 [![An image of @jayeshgit10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jayeshgit10)](https://holopin.io/@jayeshgit10)
 
