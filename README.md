@@ -56,31 +56,11 @@ Building scalable web applications, AI-powered products, and solving real-world 
 
 ---
 
-# 🤖 AI Technologies
-
-- OpenAI API
-- Gemini API
-- LangChain
-- RAG (Retrieval-Augmented Generation)
-- ChromaDB
-- AI Agents
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jayesh-git10&theme=tokyonight&no-frame=true&margin-w=15"/>
-</p>
-
----
-
 # 🔥 Current Focus
 
 - 🤖 AI Agents
 - 🧠 LangChain
 - 📚 RAG Pipelines
-- 🐳 Docker
 - ⚡ Redis
 - ☁️ Cloud Deployment
 - 🏗️ Scalable Backend Systems
@@ -112,14 +92,6 @@ while (true) {
     improve();
 }
 ```
-
----
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jayesh-git10&theme=tokyonight"/>
-</p>
-
----
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
