@@ -43,14 +43,14 @@ Building scalable web applications, AI-powered products, and solving real-world 
 # 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/Jayesh-git10" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  <a href="https://github.com/Jayesh-git10">
+    <img src="https://img.shields.io/badge/GitHub-Jayesh--git10-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/jayesh-sharma-376629325/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/jayesh-sharma-376629325/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jayesh%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:jayesh2005sharma@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-jayesh2005sharma%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
