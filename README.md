@@ -38,13 +38,9 @@ Building scalable web applications, AI-powered products, and solving real-world 
 
 [![Database](https://skillicons.dev/icons?i=mongodb,postgres,redis)](https://skillicons.dev)
 
-### AI / ML
-
-[![AI](https://skillicons.dev/icons?i=opencv,pytorch,tensorflow)](https://skillicons.dev)
-
 ### DevOps & Cloud
 
-[![Cloud](https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,netlify)](https://skillicons.dev)
+[![Cloud](https://skillicons.dev/icons?i=git,github,githubactions,vercel,netlify)](https://skillicons.dev)
 
 ### Tools
 
