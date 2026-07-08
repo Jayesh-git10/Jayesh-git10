@@ -1,4 +1,4 @@
-```md
+````md
 <h1 align="center">Hi 👋, I'm Jayesh Sharma</h1>
 
 <h3 align="center">Full Stack Developer • AI Enthusiast • Competitive Programmer</h3>
@@ -70,7 +70,7 @@ Building scalable web applications, AI-powered products, and solving real-world 
 # 🏅 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Jayesh-git10&theme=tokyonight&no-frame=true&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Jayesh-git10&theme=tokyonight&no-frame=true&margin-w=15"/>
 </p>
 
 ---
@@ -105,19 +105,18 @@ Building scalable web applications, AI-powered products, and solving real-world 
 
 ---
 
-```bash
+```cpp
 while (true) {
     learn();
     build();
     improve();
 }
-
 ```
 
 ---
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jayesh-git10&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jayesh-git10&theme=tokyonight"/>
 </p>
 
 ---
@@ -129,4 +128,4 @@ while (true) {
 <p align="center">
 If you like my work, consider starring my repositories!
 </p>
-```
+````
