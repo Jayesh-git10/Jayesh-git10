@@ -1,11 +1,26 @@
 
-<h1 align="center">Hi 👋, I'm Jayesh Sharma</h1>
+<table>
+  <tr>
+    <td width="60%">
+      <h1>Hi 👋, I'm Jayesh Sharma</h1>
 
-<h3 align="center">Full Stack Developer • AI Enthusiast • Competitive Programmer</h3>
+      <h3>Full Stack Developer • AI Enthusiast • Competitive Programmer</h3>
 
-<p align="center">
-Building scalable web applications, AI-powered products, and solving real-world problems.
-</p>
+      <p>
+        Building scalable web applications, AI-powered products,
+        and solving real-world problems.
+      </p>
+
+      <p>
+        <img src="https://komarev.com/ghpvc/?username=Jayesh-git10&label=Profile%20Views&color=0e75b6&style=flat" />
+      </p>
+    </td>
+
+    <td width="40%" align="right">
+      <img src="YOUR_GIF_URL" width="320" alt="Coding GIF"/>
+    </td>
+  </tr>
+</table>
 
 [![An image of @jayeshgit10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jayeshgit10)](https://holopin.io/@jayeshgit10)
 
