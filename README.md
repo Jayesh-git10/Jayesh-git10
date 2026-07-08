@@ -6,6 +6,9 @@
 <p align="center">
 Building scalable web applications, AI-powered products, and solving real-world problems.
 </p>
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Q3Yno4cTF4bjFlNTJuaTc2emxyZDRlc3I4MnNmcjV6Mmw1OTBqOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zwDNti5vWFujS/200.webp" width="450" alt="Coding GIF"/>
+</p>
 
 [![An image of @jayeshgit10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jayeshgit10)](https://holopin.io/@jayeshgit10)
 ---
