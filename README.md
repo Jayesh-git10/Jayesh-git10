@@ -69,3 +69,7 @@ while (true) {
 <p align="center">
 If you like my work, consider starring my repositories!
 </p>
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/xk1Dypa4ZDkAAAAC/jeonzflwr.gif" alt="Coding GIF" width="350"/>
+</p>
