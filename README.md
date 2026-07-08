@@ -1,4 +1,4 @@
-````md
+
 <h1 align="center">Hi 👋, I'm Jayesh Sharma</h1>
 
 <h3 align="center">Full Stack Developer • AI Enthusiast • Competitive Programmer</h3>
@@ -128,4 +128,3 @@ while (true) {
 <p align="center">
 If you like my work, consider starring my repositories!
 </p>
-````
