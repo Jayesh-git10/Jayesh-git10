@@ -25,29 +25,7 @@ Building scalable web applications, AI-powered products, and solving real-world 
 
 # 🚀 Tech Stack
 
-### Languages
-
-[![Languages](https://skillicons.dev/icons?i=cpp,c,py,js,ts)](https://skillicons.dev)
-
-### Frontend
-
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite)](https://skillicons.dev)
-
-### Backend
-
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi)](https://skillicons.dev)
-
-### Databases
-
-[![Database](https://skillicons.dev/icons?i=mongodb,postgres,redis)](https://skillicons.dev)
-
-### DevOps & Cloud
-
-[![Cloud](https://skillicons.dev/icons?i=git,github,githubactions,vercel,netlify)](https://skillicons.dev)
-
-### Tools
-
-[![Tools](https://skillicons.dev/icons?i=vscode,postman,figma,npm)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=cpp,c,py,js,ts,react,nextjs,html,css,tailwind,vite,nodejs,express,mongodb,postgres,redis,git,github,vercel,netlify,vscode,postman)](https://skillicons.dev)
 
 ---
 
