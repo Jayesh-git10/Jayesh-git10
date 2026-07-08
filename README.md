@@ -32,7 +32,7 @@ Building scalable web applications, AI-powered products, and solving real-world 
 
 ### Backend
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,flask,fastapi)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi)](https://skillicons.dev)
 
 ### Databases
 
