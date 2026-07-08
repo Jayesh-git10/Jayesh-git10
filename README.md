@@ -25,7 +25,7 @@ Building scalable web applications, AI-powered products, and solving real-world 
 
 # 🚀 Tech Stack
 
-[![](https://skillicons.dev/icons?i=cpp,c,py,js,ts,react,nextjs,html,css,tailwind,vite,nodejs,express,mongodb,postgres,redis,git,github,vercel,netlify,vscode,postman)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=cpp,c,py,js,ts,react,nextjs,html,css,tailwind,vite,nodejs,express,mongodb,postgres,redis,git,github,vercel,netlify,vscode,postman,linux)](https://skillicons.dev)
 
 ---
 
